@@ -16,3 +16,12 @@ Name2 Name2:
   avatar      : "bio-photo.jpg"
   twitter     : "name2"
   google_plus : "Name"
+  
+Alexandre Lohmann:
+  name        : "Alexandre Lohmann"
+  uri         : "http://name.com"
+  email       : "name@name.com"
+  bio         : "This is the first name."
+  avatar      : "bio-photo-2.jpg"
+  twitter     : "name"
+  google_plus : "Name"
